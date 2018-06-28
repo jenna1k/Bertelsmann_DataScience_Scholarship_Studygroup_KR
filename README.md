@@ -1,13 +1,19 @@
-# 유다시티 버틀스만 데이터사이언스 장학과정 노트정리
-한국어 스터디 그룹
+# Seoul, Korea Studygroup of Bertelsmann DataScience Challenge Scholarship Course
+Bertelsmann DataScience Challenge Scholarship Course 한국 스터디 그룹입니다.
 
+## Study Meetup
+- [2018.06.14](#)
+- [2018.06.21](#)
+- [2018.06.28](#)
 
-## 목차
-0. 시작하는 글
-1. 기초통계
-   1. 통계조사 방법
-   2. 
-   3. 
-   4. 
-2. 파이썬
-3. SQL
+## Statistics Summary Note Translation
+1. [Intro to statistical research methods](ResearchMethods.md)
+2. [Visualizing Data](#) 
+3. [Central Tendency](CentralTendency.md)
+4. [Variability](#)
+5. [Standardizing](#)
+6. [Normal Distribution](#)
+7. [Sampling Distributions](#)
+
+## Data Science job in Korea
+..

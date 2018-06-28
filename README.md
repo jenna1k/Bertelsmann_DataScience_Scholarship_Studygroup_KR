@@ -1,4 +1,7 @@
-# Seoul, Korea Studygroup of Bertelsmann DataScience Challenge Scholarship Course
+### Udacity Bertelsmann DataScience Challenge Scholarship Course
+## Korea Studygroup
+
+
 Bertelsmann DataScience Challenge Scholarship Course 한국 스터디 그룹입니다.
 
 ## Study Meetup

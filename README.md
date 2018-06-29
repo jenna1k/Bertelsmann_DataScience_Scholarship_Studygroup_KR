@@ -9,7 +9,7 @@ Group organiser / contact person(s) (slack username) : @jenna kim, @Bora Lee, @H
 - [2018.06.28](https://www.facebook.com/photo.php?fbid=10216391522169685&set=gm.470159030074643&type=3&theater&ifg=1)
 
 ## Statistics Summary Note Translation
-we are using Kalhari Liyanagama's course note to review course together and translate Statistics part for better understanding
+we are using [Kalhari Liyanagama's course note](summarynote/BertelsmannDScourseNote.pdf) to review course together and translate Statistics part for better understanding
 
 1. [Intro to statistical research methods](summarynote/ResearchMethods.md)
 2. [Visualizing Data](summarynote/VisualizingData.md)

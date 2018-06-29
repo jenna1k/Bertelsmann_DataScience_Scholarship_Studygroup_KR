@@ -1,8 +1,7 @@
 ### Udacity Bertelsmann DataScience Challenge Scholarship Course
-## Korea Studygroup
+## Seoul, KR Study Group
 
-
-Bertelsmann DataScience Challenge Scholarship Course 한국 스터디 그룹입니다.
+Group organiser / contact person(s) (slack username) : @jenna kim, @Bora Lee, @Hazel Kang
 
 ## Study Meetup
 - [2018.06.14](#)
@@ -10,6 +9,8 @@ Bertelsmann DataScience Challenge Scholarship Course 한국 스터디 그룹입�
 - [2018.06.28](#)
 
 ## Statistics Summary Note Translation
+we (seoul, KR studygroup) are using Kalhari Liyanagama's course note to review course together and translate Statistics part for better understanding
+
 1. [Intro to statistical research methods](ResearchMethods.md)
 2. [Visualizing Data](#) 
 3. [Central Tendency](CentralTendency.md)

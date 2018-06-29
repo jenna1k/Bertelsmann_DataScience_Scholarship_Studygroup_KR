@@ -36,7 +36,7 @@ of data. Frequency table is better for calculating n.
 ![alt text](img/2_02.jpg)
 
 | Histogram| Bar graph| 
-| ------------- |:-------------:|
+|:-------------:|:-------------:|
 | Can choose any interval or bin size| spaces in between columns means that each of them is one distinct category| 
 | Can change the bin size| Not possible to change an interval like that| 
 | Order matters, it goes from low to high along xaxis| Variable on x axis is categorical or qualitative| 

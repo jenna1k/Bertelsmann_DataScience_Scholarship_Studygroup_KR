@@ -1,5 +1,5 @@
 ### Udacity Bertelsmann DataScience Challenge Scholarship Course
-## Seoul, KR Study Group
+## Seoul, KR Study Group [>](https://docs.google.com/spreadsheets/d/10ynls6cHwFv1HCHLn7JlkTsAkciBPcR1MluYK7hdHJM/edit#gid=0)
 
 Group organiser / contact person(s) (slack username) : @jenna kim, @Bora Lee, @Hazel Kang
 

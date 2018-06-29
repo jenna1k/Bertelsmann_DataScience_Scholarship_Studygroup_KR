@@ -12,12 +12,12 @@ Group organiser / contact person(s) (slack username) : @jenna kim, @Bora Lee, @H
 we are using Kalhari Liyanagama's course note to review course together and translate Statistics part for better understanding
 
 1. [Intro to statistical research methods](ResearchMethods.md)
-2. [Visualizing Data](#) 
+2. Visualizing Data
 3. [Central Tendency](CentralTendency.md)
-4. [Variability](#)
-5. [Standardizing](#)
-6. [Normal Distribution](#)
-7. [Sampling Distributions](#)
+4. Variability
+5. Standardizing
+6. Normal Distribution
+7. Sampling Distributions
 
 ## Data Science job in Korea
 ..

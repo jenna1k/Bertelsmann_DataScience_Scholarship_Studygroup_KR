@@ -11,9 +11,9 @@ Group organiser / contact person(s) (slack username) : @jenna kim, @Bora Lee, @H
 ## Statistics Summary Note Translation
 we are using Kalhari Liyanagama's course note to review course together and translate Statistics part for better understanding
 
-1. [Intro to statistical research methods](ResearchMethods.md)
+1. [Intro to statistical research methods](summarynote/ResearchMethods.md)
 2. Visualizing Data
-3. [Central Tendency](CentralTendency.md)
+3. [Central Tendency](summarynote/CentralTendency.md)
 4. Variability
 5. Standardizing
 6. Normal Distribution

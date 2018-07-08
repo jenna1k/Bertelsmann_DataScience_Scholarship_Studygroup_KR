@@ -4,10 +4,10 @@
 Group organiser / contact person(s) (slack username) : @jenna kim, @Bora Lee, @Hazel Kang
 
 ## Study Meetup
-- [2018.06.14](https://www.facebook.com/photo.php?fbid=1961324190553904&set=gm.457511704672709&type=3&ifg=1)
-- [2018.06.21](https://www.facebook.com/photo.php?fbid=1972003056152684&set=gm.463106357446577&type=3&ifg=1)
-- [2018.06.28](https://www.facebook.com/photo.php?fbid=10216391522169685&set=gm.470159030074643&type=3&theater&ifg=1) [meeting conclusion](study_meetup/20180628.md)
-- [2018.07.07]() [meeting conclusion](study_meetup/20180707.md)
+- 2018.06.14 [photo](https://www.facebook.com/photo.php?fbid=1961324190553904&set=gm.457511704672709&type=3&ifg=1)
+- 2018.06.21 [photo](https://www.facebook.com/photo.php?fbid=1972003056152684&set=gm.463106357446577&type=3&ifg=1)
+- 2018.06.28 [photo](https://www.facebook.com/photo.php?fbid=10216391522169685&set=gm.470159030074643&type=3&theater&ifg=1) [meeting conclusion](study_meetup/20180628.md)
+- 2018.07.07 [photo] [meeting conclusion](study_meetup/20180707.md)
 
 ## Statistics Summary Note Translation
 we are using [Kalhari Liyanagama's course note](summarynote/BertelsmannDScourseNote.pdf) to review course together and translate Statistics part for better understanding

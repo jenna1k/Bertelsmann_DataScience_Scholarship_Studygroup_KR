@@ -26,7 +26,7 @@ we are using [Kalhari Liyanagama's course note](summarynote/BertelsmannDScourseN
 ## Links
 [Bertelsmann data scholarship website](https://sites.google.com/udacity.com/bertelsmanndatascholarship)
 #### Udacity Forms
-  [Find study group Sheet](https://docs.google.com/spreadsheets/d/10ynls6cHwFv1HCHLn7JlkTsAkciBPcR1MluYK7hdHJM/edit#gid=0)
-  [Group project Sheet](https://docs.google.com/spreadsheets/d/1K9sJmgYJpQAdTzB-Miabvvjq9ycUvzuyc6kUZutF6vs/edit#gid=0)
+  - [Find study group Sheet](https://docs.google.com/spreadsheets/d/10ynls6cHwFv1HCHLn7JlkTsAkciBPcR1MluYK7hdHJM/edit#gid=0)
+  - [Group project Sheet](https://docs.google.com/spreadsheets/d/1K9sJmgYJpQAdTzB-Miabvvjq9ycUvzuyc6kUZutF6vs/edit#gid=0)
 #### KR study group Forms
-  [Project procedure track sheet](https://docs.google.com/spreadsheets/d/1FzQbQiu3jD5i4j_U361pLq3EtTTGKcx58vULqstCtks/edit#gid=1204763770)
+  - [Project procedure track sheet](https://docs.google.com/spreadsheets/d/1FzQbQiu3jD5i4j_U361pLq3EtTTGKcx58vULqstCtks/edit#gid=1204763770)

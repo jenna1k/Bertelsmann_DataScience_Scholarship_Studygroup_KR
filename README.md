@@ -1,9 +1,7 @@
 ### Udacity Bertelsmann DataScience Challenge Scholarship Course
-## Seoul, KR Study Group [>](https://docs.google.com/spreadsheets/d/10ynls6cHwFv1HCHLn7JlkTsAkciBPcR1MluYK7hdHJM/edit#gid=0)
+## Seoul, KR Study Group 
 #### Group organiser / contact person(s) (slack username) : [@jenna kim](https://github.com/jenna1k), [@Bora Lee](), [@Hazel Kang]()
-##### [Bertelsmann data scholarship website](https://sites.google.com/udacity.com/bertelsmanndatascholarship)
-##### [Find study group Sheet](https://docs.google.com/spreadsheets/d/10ynls6cHwFv1HCHLn7JlkTsAkciBPcR1MluYK7hdHJM/edit#gid=0)
-##### [Project procedure track sheet](https://docs.google.com/spreadsheets/d/1FzQbQiu3jD5i4j_U361pLq3EtTTGKcx58vULqstCtks/edit#gid=1204763770)
+
 
 ## Study Meetup
 - 2018.06.14 [photo](https://www.facebook.com/photo.php?fbid=1961324190553904&set=gm.457511704672709&type=3&ifg=1)
@@ -24,3 +22,11 @@ we are using [Kalhari Liyanagama's course note](summarynote/BertelsmannDScourseN
 
 ## Data Science job in Korea
 ..
+
+## Links
+[Bertelsmann data scholarship website](https://sites.google.com/udacity.com/bertelsmanndatascholarship)
+#### Udacity Forms
+  [Find study group Sheet](https://docs.google.com/spreadsheets/d/10ynls6cHwFv1HCHLn7JlkTsAkciBPcR1MluYK7hdHJM/edit#gid=0)
+  [Group project Sheet](https://docs.google.com/spreadsheets/d/1K9sJmgYJpQAdTzB-Miabvvjq9ycUvzuyc6kUZutF6vs/edit#gid=0)
+#### KR study group Forms
+  [Project procedure track sheet](https://docs.google.com/spreadsheets/d/1FzQbQiu3jD5i4j_U361pLq3EtTTGKcx58vULqstCtks/edit#gid=1204763770)

@@ -15,7 +15,7 @@ we are using [Kalhari Liyanagama's course note](summarynote/BertelsmannDScourseN
 1. [Intro to statistical research methods](summarynote/ResearchMethods.md)
 2. [Visualizing Data](summarynote/VisualizingData.md)
 3. [Central Tendency](summarynote/CentralTendency.md)
-4. Variability
+4. [Variability](summarynote/Variability.md)
 5. Standardizing
 6. Normal Distribution
 7. Sampling Distributions

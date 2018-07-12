@@ -1,54 +1,47 @@
 # 데이터 시각화
 
-- 데이터 세트의 **빈도(frequency)** 는 어떠한 결과가 발생하는 횟수입니다.
-- 빈도 표(frequency table)는 결과와 빈도를 표로 만든것 입니다.
-
-- 비율(proportion)은 전체 표본에 대한 수치의 분수입니다.
-- 백분율(percentage)은 비율에 100을 곱한것입니다.
-
-      • RF = 상대 빈도(relative frequency)= 비율
-      • RF = 빈도 / 총 수
-      • 0 <= RF <= 1
-      • 합계 (RF) = 1
-      • 백분율 = RF * 100
-      • 0 <= 백분율 <= 100 %
+- 데이터 세트의 **도수/빈도(frequency)** 란 각 계급에 속하는 자료의 수이다.
+- 도수분포표(frequency table)란 데이터를 분석할때 분포의 형태, 중심위치, 산포 등을 파악하기위해 각 계급마다 도수, 상대도수, 누적상대도수 등을 정리한 표이다. 
 
 
-- 원하는 질문에 따라 데이터 구성합니다.
+- 비율(proportion)은 전체 표본에 대한 비교 부분의 분수이다.
+- 백분율(percentage)은 비율에 100을 곱한 것이다.
+
+      • RF = 상대 도수(relative frequency)= 도수의 합계에 대한 각 계급 도수의 비율
+      • RF = 해당 계급의 도수 / 도수의 합계
+      • 0 <= RF <= 1 상대도수는 0과 1사이에 있음
+      • SUM (RF) = 1 상대도수의 합계는 항상 1임
+      • 백분율 = RF * 100 백분율로 표시할때는 상대도수에 100을 곱함
+      • 0 <= 백분율 <= 100 % 
 
 
-- **히스토그램(histogram)** 은 데이터의 분포를 그래프로 표현한 것입니다.
-- 빈도는 y 축에 있고 변수는 x 축에 있습니다.
-- 축의 교차점은 원점(origin)입니다. 그것의 데카르트 좌표(Cartesian)가 우리가 0 축과 2 축 모두에 있다면 (0,0)입니다.
-- It depends on what questions you want to answer.
+- **히스토그램(histogram)** 은 데이터의 분포를 나타내기 위해 그래프로 표현한 것이다.
+- 도수는 y 축에 있고 도수분포표의 계급은 x 축에 있다.
+- 축의 교차점은 원점(origin)이다.
 
-- discrete intervals (bins) are decided upon to form widths
-for our boxes. Bin size (interval size) is the interval in which
-you’re counting the frequency. Shape of the histogram
-changes with the bin size. Adjusting the bin size of a
-histogram will compact (or spread out) the distribution.
+- 계급(bins)은 데이터를 몇 개의 동등한 폭으로 나눈 구간이다.
+계급의 폭 (interval size)이 너무 좁으면 표가 복잡해지고 반대로 너무 넓으면 데이터의 경향을 알기 힘드므로 주의해야 한다. 
+계급의 폭을 조정함에 따라 히스토그램이 넓어지기도하고 좁아지기도한다.
 
 ![alt text](img/2_01.jpg)
 
-- Histogram is better for analyzing the shape of a distribution
-of data. Frequency table is better for calculating n.
+- **히스토그램은 데이터의 분포형태를 분석하기에 용이하고, 도수분포표는 도수를 계산하기에 적합하다.**
 
 ![alt text](img/2_02.jpg)
 
-| Histogram| Bar graph| 
+| 히스토그램| 막대그래프| 
 |:-------------:|:-------------:|
-| Can choose any interval or bin size| spaces in between columns means that each of them is one distinct category| 
-| Can change the bin size| Not possible to change an interval like that| 
-| Order matters, it goes from low to high along xaxis| Variable on x axis is categorical or qualitative| 
-| Variable on x axis is numerical & quantitative| Bar graph| 
-| Shape is very important| Shape is arbitrary| 
+| 계급의 정할수 있다| 각각 하나의 별개 카테고리라| 
+| 계급의 폭을 바꿀 수 있다| 간격 변경 불가| 
+| x축 오른쪽으로 갈수록 값이 커짐| 순서 관계 없음| 
+| x축 변수는 양적 데이터| x축 변수는 질적 데이터(카테고리컬 데이터)| 
+| 분포형태가 매우 중요하다| 임의의 모양| 
 
-Biased Graphs
-## Skewed Distribution
-- A **positive skew** is when outliers are present along the right
-most end of the distribution
-- A **negative skew** is when outliers are present along the left
-most end of the distribution
+
+## 비대칭 분포
+편향된 그래프
+- **정적비대칭(positive skew)** 특이점들이 오른쪽에 위치, 우측 긴꼬리 모양
+- **부적 비대칭(negative skew)** 특이점들이 왼쪽에 위치, 좌측 긴꼬리 모양
 
 ![alt text](img/2_03.jpg)
 
